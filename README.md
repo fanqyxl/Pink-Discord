@@ -4,6 +4,8 @@ Discord Theme: **Pink-Discord**
 
 ## 🎨 About  
 
+Felt like I was making too many blueish themes, so I decided to make a Pink one!!
+
 A Discord Theme Coded In CSS For My Hackclub Project!!
 
 ## 📸 Screenshots  
